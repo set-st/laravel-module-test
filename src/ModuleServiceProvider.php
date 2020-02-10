@@ -13,8 +13,8 @@ class ModuleServiceProvider extends ServiceProvider
 
     public function register()
     {
-        $this->app->singleton(\Set\TestModule\Module::class, function ($app) {
-            return new \Set\TestModule\Module();
+        $this->app->singleton(Module::class, function ($app) {
+            return new Module();
         });
     }
 }
