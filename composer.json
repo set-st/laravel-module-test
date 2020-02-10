@@ -22,5 +22,12 @@
         "psr-4": {
             "Set\\TestModule\\": "src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Set\\TestModule\\ServiceProvider"
+            ]
+        }
     }
 }

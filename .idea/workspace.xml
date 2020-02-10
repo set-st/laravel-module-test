@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581349256791</updated>
-      <workItem from="1581349258193" duration="2294000" />
+      <workItem from="1581349258193" duration="3197000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1581350974373</created>
@@ -66,7 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581351401371</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1581351560227</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581351560227</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1581351750652</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581351750652</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,12 +90,13 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="92" key="CommitChangelistDialog2" timestamp="1581351559361">
+    <state x="265" y="92" width="850" height="810" key="CommitChangelistDialog2" timestamp="1581351749770">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
-    <state x="265" y="92" key="CommitChangelistDialog2/0.0.1280.994@0.0.1280.994" timestamp="1581351559361" />
+    <state x="265" y="92" width="850" height="810" key="CommitChangelistDialog2/0.0.1280.994@0.0.1280.994" timestamp="1581351749770" />
     <state x="404" y="312" key="NewPhpClassDialog" timestamp="1581349643624">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
@@ -90,9 +105,9 @@
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state x="141" y="140" key="SettingsEditor/0.0.1280.994@0.0.1280.994" timestamp="1581350951378" />
-    <state x="232" y="230" key="Vcs.Push.Dialog.v2" timestamp="1581351561388">
+    <state x="232" y="230" key="Vcs.Push.Dialog.v2" timestamp="1581351778359">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
-    <state x="232" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.994@0.0.1280.994" timestamp="1581351561388" />
+    <state x="232" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.994@0.0.1280.994" timestamp="1581351778359" />
   </component>
 </project>
