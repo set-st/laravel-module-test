@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3aa868fb-e798-456c-af01-83e5471f3bc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModuleServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModuleServiceProvider.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581349256791</updated>
-      <workItem from="1581349258193" duration="3197000" />
+      <workItem from="1581349258193" duration="3372000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1581350974373</created>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581351750652</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1581352738362</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581352738362</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,10 +100,10 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="92" width="850" height="810" key="CommitChangelistDialog2" timestamp="1581351749770">
+    <state x="265" y="92" width="850" height="810" key="CommitChangelistDialog2" timestamp="1581352737539">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
-    <state x="265" y="92" width="850" height="810" key="CommitChangelistDialog2/0.0.1280.994@0.0.1280.994" timestamp="1581351749770" />
+    <state x="265" y="92" width="850" height="810" key="CommitChangelistDialog2/0.0.1280.994@0.0.1280.994" timestamp="1581352737539" />
     <state x="404" y="312" key="NewPhpClassDialog" timestamp="1581349643624">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
@@ -105,9 +112,9 @@
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state x="141" y="140" key="SettingsEditor/0.0.1280.994@0.0.1280.994" timestamp="1581350951378" />
-    <state x="232" y="230" key="Vcs.Push.Dialog.v2" timestamp="1581351778359">
+    <state x="232" y="230" key="Vcs.Push.Dialog.v2" timestamp="1581352741403">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
-    <state x="232" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.994@0.0.1280.994" timestamp="1581351778359" />
+    <state x="232" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.994@0.0.1280.994" timestamp="1581352741403" />
   </component>
 </project>

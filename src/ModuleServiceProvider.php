@@ -3,8 +3,6 @@
 namespace Set\TestModule;
 
 use Illuminate\Support\ServiceProvider;
-use App;
-use Blade;
 
 class ModuleServiceProvider extends ServiceProvider
 {
@@ -15,7 +13,7 @@ class ModuleServiceProvider extends ServiceProvider
 
     public function register()
     {
-        App::singleton('module', function (){
+        $this->app->singleton(\Set\TestModule\Module::class, function ($app) {
             return new \Set\TestModule\Module();
         });
     }
