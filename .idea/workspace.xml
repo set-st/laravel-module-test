@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3aa868fb-e798-456c-af01-83e5471f3bc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581349256791</updated>
-      <workItem from="1581349258193" duration="2056000" />
+      <workItem from="1581349258193" duration="2294000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1581350974373</created>
@@ -51,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581350974373</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1581351331024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581351331024</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1581351401371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581351401371</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -59,13 +74,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="92" key="CommitChangelistDialog2" timestamp="1581351330093">
+    <state x="265" y="92" key="CommitChangelistDialog2" timestamp="1581351400539">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
-    <state x="265" y="92" key="CommitChangelistDialog2/0.0.1280.994@0.0.1280.994" timestamp="1581351330093" />
+    <state x="265" y="92" key="CommitChangelistDialog2/0.0.1280.994@0.0.1280.994" timestamp="1581351400539" />
     <state x="404" y="312" key="NewPhpClassDialog" timestamp="1581349643624">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
@@ -74,9 +90,9 @@
       <screen x="0" y="0" width="1280" height="994" />
     </state>
     <state x="141" y="140" key="SettingsEditor/0.0.1280.994@0.0.1280.994" timestamp="1581350951378" />
-    <state x="232" y="230" key="Vcs.Push.Dialog.v2" timestamp="1581351332678">
+    <state x="232" y="230" key="Vcs.Push.Dialog.v2" timestamp="1581351403015">
       <screen x="0" y="0" width="1280" height="994" />
     </state>
-    <state x="232" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.994@0.0.1280.994" timestamp="1581351332678" />
+    <state x="232" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.994@0.0.1280.994" timestamp="1581351403015" />
   </component>
 </project>
