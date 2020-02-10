@@ -1,0 +1,27 @@
+{
+    "name": "set-st/laravel-module-test",
+    "description": "Laravel Test Module",
+    "type": "library",
+    "keywords": [
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "Stanislav",
+            "email": "stas@pda.in.ua",
+            "homepage": "https://github.com/set-st/laravel-module-test",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^7.0@dev",
+        "php": "7"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Set\\TestModule\\": "src"
+        }
+    }
+}
